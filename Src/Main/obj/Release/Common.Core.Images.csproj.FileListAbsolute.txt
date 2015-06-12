@@ -1,0 +1,4 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Images\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Images.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Images\Src\Main\obj\Release\Common.Core.Images.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Images\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Images.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Images\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Images.dll
