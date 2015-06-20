@@ -87,15 +87,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Colors">
-      <HintPath>..\..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\Colors\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Colors.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Tamu.GeoInnovation.Common.Core.Files, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\..\DevBuild\Tamu\GeoInnovation\Common\Core\Files\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Files.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -123,6 +114,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.Colors\Src\Main\Common.Core.Colors.Dev.csproj">
+      <Project>{34A8FC48-16D5-4937-8D33-14AE2EE362F4}</Project>
+      <Name>Common.Core.Colors.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common.Core.Files\Src\Main\Common.Core.Files.Dev.csproj">
+      <Project>{0FF43F5C-9E8B-4010-A805-8C54EF43E511}</Project>
+      <Name>Common.Core.Files.Dev</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  
