@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Images\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Images.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Images\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Images.pdb
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Images\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Images.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Images\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Images.pdb
