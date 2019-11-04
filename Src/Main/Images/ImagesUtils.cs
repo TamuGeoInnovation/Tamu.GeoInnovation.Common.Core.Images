@@ -99,11 +99,11 @@ namespace USC.GISResearchLab.Common.Utils.Web.Images
             Color color = boxColor;
 
             Pen p = new Pen(color, 2);
-            Rectangle rect = new Rectangle(3, 3, width-6, height-6);
+            Rectangle rect = new Rectangle(3, 3, width - 6, height - 6);
             g.DrawRectangle(p, rect);
             g.Flush();
 
-            
+
             //// below is from: http://www.bobpowell.net/giftransparency.htm
             //Image gifImage = (Image)bitmap;
             //ColorPalette cp = gifImage.Palette;
@@ -194,7 +194,7 @@ namespace USC.GISResearchLab.Common.Utils.Web.Images
                 {
                     fontsize--;
                 }
-            
+
             }
             if (btransparent == true)
             {
